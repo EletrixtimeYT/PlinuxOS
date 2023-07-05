@@ -1,3 +1,4 @@
+shell.run("clear")
 print("==========================")
 print("PlinuxOS")
 print("Created by ELETRIXTIME")
