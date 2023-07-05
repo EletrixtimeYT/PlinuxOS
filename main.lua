@@ -1,12 +1,4 @@
---[[
-	 This program was made by solely by remiX for users
-	 that are wanting to make/design their own 'OS'. This
-	 can be used as an example/sample for themselves.
-	 This program is freeware and credits is required if
-	 used in anyway.
---]]
 
---[[ Variables ]] --
 screenX, screenY = term.getSize()
 mainProg = true
 showTime = true
@@ -47,7 +39,7 @@ t_startMenu = {
 			{text = "WhereIsDan", path = "var/screensaver/WhereIsDan"},
 			{text = "Firewolf", path = "app/firewolf"},
 		
-            		{text = "CraftOS", path = "app/terminal"},
+            {text = "Calc", path = "os/calc"},
 		}
 	}
 }
