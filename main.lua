@@ -46,7 +46,7 @@ t_startMenu = {
 			{text = "Strafe", path = "app/strafe"},
 			{text = "WhereIsDan", path = "var/screensaver/WhereIsDan"},
 			{text = "Firewolf", path = "app/firewolf"},
-			{text = "TerrariCCa", path = "app/terraricca"},
+		
             {text = "CraftOS", path = "app/terminal"},
 		}
 	}
