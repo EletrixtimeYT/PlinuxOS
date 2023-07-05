@@ -20,5 +20,7 @@ shell.run("pastebin get A7wGH3ty app/firewolf")
 shell.run("pastebin get yjKf6pHN app/terminal")
 sleep(1)
 print("Downloading STARTUP.LUA")
+shell.run("wget https://raw.githubusercontent.com/EletrixtimeYT/PlinuxOS/main/startup.lua startup")
+shell.run("wget https://github.com/EletrixtimeYT/PlinuxOS/blob/main/main.lua os/main.lua")
 print("Exiting !")
 
