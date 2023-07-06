@@ -18,7 +18,7 @@ t_startMenu = {
 		{text = "Help", option = "helpMenu", x = 2, y = 12, textCol = colours.black, bgCol = colours.white},
 		{text = "Reboot", option = function() os.reboot() end, x = 13, y = 17, textCol = colours.white, bgCol = colours.black},
 		{text = "Shutdown", option = function() os.reboot() end, x = 13, y = 20, textCol = colours.white, bgCol = colours.black}
-	}
+	},
 	["helpMenu"] = {
 		textCol = colours.black,
 		bgCol = colours.white,
