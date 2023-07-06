@@ -1,8 +1,0 @@
-shell.run("clear")
-print("==========================")
-print("PlinuxOS")
-print("Created by ELETRIXTIME")
-print("==========================")
-print("Booting on os/main")
-sleep(2)
-shell.run("os/main.lua")
